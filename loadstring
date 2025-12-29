@@ -1,3 +1,3 @@
-
+require(10761909011)("namehere")
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/musicaltoddle-star/utg/refs/heads/main/utgfile')))())())
